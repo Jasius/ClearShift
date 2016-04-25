@@ -148,3 +148,19 @@ pre {
     color: #ddd;
 	max-height: 500px;
 }
+#contacts a {
+    text-decoration: none;
+}
+ul#menu {
+    padding: 0;
+}
+
+ul#menu li {
+    display: inline;
+}
+
+ul#menu li a {
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 4px 4px 0 0;
+}
