@@ -164,4 +164,15 @@ ul#menu li a {
     text-decoration: none;
     border-radius: 4px 4px 0 0;
 }
-#download{height: 300px;}
+@media (max-width: 600px) {
+	footer .copyright {width: 100%;}
+}
+
+#wrap {
+  min-height: 100%;
+}
+
+#main {
+  overflow:auto;
+  padding-bottom:50px;
+}
