@@ -3,7 +3,7 @@
     border-color: #e7e7e7;
 }
 .navbar-brand span {
-    color: #E6344A;
+    color: #d9edf7;
 }
 .navbar-default .navbar-nav>li>a, .navbar-default .navbar-brand  {
     color: #fff;
@@ -20,11 +20,15 @@ h1, h2{
 .container-fluid {
     padding-top: 45px;
 }
+#home{
+	background: aliceblue;
+}
 #minimal{
 	border-radius: 0px;
 	background: transparent;
     border: 2px solid #0057A6;
     color: #0057A6;
+	transition: background-color .5s;
 }
 #minimal:hover{
 	color: #fff;
@@ -35,6 +39,7 @@ h1, h2{
 	background: transparent;
     border: 2px solid #cd201f;
     color: #cd201f;
+    transition: background-color .5s;
 }
 #minimal-yt:hover{
 	color: #fff;
