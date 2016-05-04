@@ -7,6 +7,7 @@
 }
 .navbar-default .navbar-nav>li>a, .navbar-default .navbar-brand  {
     color: #fff;
+	border: 3px solid transparent;
 }
 .navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover, .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
     color: #eee;
@@ -62,7 +63,7 @@ footer {
 }
 
 .jaska-foot {
-	color: #E74C3C;
+	color: #FFC107;
 }
 
 .jaska-foot:hover {
@@ -177,4 +178,7 @@ ul#menu li a {
 #main {
   overflow:auto;
   padding-bottom:50px;
+}
+.img-responsive:hover {
+    opacity: 0.9;
 }
