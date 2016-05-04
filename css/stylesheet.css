@@ -17,9 +17,6 @@
 h1, h2{
 	text-align: center
 }
-.container-fluid {
-    padding-top: 45px;
-}
 #home{
 	background: aliceblue;
 }
@@ -57,7 +54,7 @@ h1, h2{
 }
 
 footer {
-	background: #2C3E50;
+	background: #0057A6;
 	bottom: 0;
 	width: 100%;
 	margin-top: 0%;
@@ -75,7 +72,7 @@ footer {
 footer .copyright {
 	width: 50%;
 	float: left;
-	background: #2C3E50;
+	background: #0057A6;
 }
 
 @media (max-width: 600px) {}
@@ -141,7 +138,7 @@ footer .social a:hover {
 }
 
 .support {
-	background-color: #6dcd9a;
+	background-color: #5cb85c;
 	font-size: 0.8em;
 	width: 40%;
 }
