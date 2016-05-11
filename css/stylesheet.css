@@ -26,7 +26,7 @@ h1, h2{
 	background: transparent;
     border: 2px solid #0057A6;
     color: #0057A6;
-	transition: background-color .5s;
+	transition: all .5s;
 }
 #minimal:hover{
 	color: #fff;
@@ -37,7 +37,7 @@ h1, h2{
 	background: transparent;
     border: 2px solid #cd201f;
     color: #cd201f;
-    transition: background-color .5s;
+    transition: all .5s;
 }
 #minimal-yt:hover{
 	color: #fff;
@@ -181,4 +181,16 @@ ul#menu li a {
 }
 .img-responsive:hover {
     opacity: 0.9;
+}
+/* nav anchors fix */
+
+#projects:before,
+#home:before,
+#features:before,
+#download:before {
+    display: block;
+    content: " ";
+    margin-top: -57px;
+    height: 57px;
+    visibility: hidden;
 }
