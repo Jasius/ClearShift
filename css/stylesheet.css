@@ -194,3 +194,11 @@ ul#menu li a {
     height: 57px;
     visibility: hidden;
 }
+.title-border {
+    display: block;
+    border-bottom: 2px solid #3498DB;
+    width: 70px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    margin-top: -4px;
+}
