@@ -1,0 +1,260 @@
+. {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.-Bright-Moon {
+    width: 20px;
+    height: 20px;
+    background-position: -5px -5px;
+}
+
+.-Chat {
+    width: 45px;
+    height: 45px;
+    background-position: -35px -5px;
+}
+
+.-Chat-45-_1_ {
+    width: 45px;
+    height: 45px;
+    background-position: -90px -5px;
+}
+
+.-Conference-Call {
+    width: 20px;
+    height: 20px;
+    background-position: -145px -5px;
+}
+
+.-Conference-Call-20 {
+    width: 20px;
+    height: 20px;
+    background-position: -175px -5px;
+}
+
+.-Exit {
+    width: 32px;
+    height: 32px;
+    background-position: -205px -5px;
+}
+
+.-Link {
+    width: 45px;
+    height: 45px;
+    background-position: -145px -35px;
+}
+
+.-Link-45-_1_ {
+    width: 45px;
+    height: 45px;
+    background-position: -200px -47px;
+}
+
+.-Maintenance {
+    width: 32px;
+    height: 32px;
+    background-position: -5px -102px;
+}
+
+.-Message {
+    width: 32px;
+    height: 32px;
+    background-position: -47px -102px;
+}
+
+.-RES-Arrow-12 {
+    width: 12px;
+    height: 12px;
+    background-position: -5px -47px;
+}
+
+.-Settings {
+    width: 32px;
+    height: 32px;
+    background-position: -89px -102px;
+}
+
+.-Talk-Male {
+    width: 20px;
+    height: 20px;
+    background-position: -131px -102px;
+}
+
+.-Talk-Male-20 {
+    width: 20px;
+    height: 20px;
+    background-position: -161px -102px;
+}
+
+.-Test-Tube {
+    width: 32px;
+    height: 32px;
+    background-position: -191px -102px;
+}
+
+.-n-collapse {
+    width: 30px;
+    height: 28px;
+    background-position: -5px -144px;
+}
+
+.-n-expand {
+    width: 30px;
+    height: 28px;
+    background-position: -45px -144px;
+}
+
+.-n-pic {
+    width: 30px;
+    height: 28px;
+    background-position: -85px -144px;
+}
+
+.-n-pic2 {
+    width: 30px;
+    height: 28px;
+    background-position: -125px -144px;
+}
+
+.-n-text {
+    width: 30px;
+    height: 28px;
+    background-position: -165px -144px;
+}
+
+.-n-text2 {
+    width: 30px;
+    height: 28px;
+    background-position: -205px -144px;
+}
+
+.-n-vid {
+    width: 30px;
+    height: 28px;
+    background-position: -5px -182px;
+}
+
+.-n-vid2 {
+    width: 30px;
+    height: 28px;
+    background-position: -45px -182px;
+}
+
+.-nsfw {
+    width: 45px;
+    height: 45px;
+    background-position: -85px -182px;
+}
+
+.-s-down {
+    width: 15px;
+    height: 14px;
+    background-position: -140px -182px;
+}
+
+.-s-up {
+    width: 15px;
+    height: 14px;
+    background-position: -165px -182px;
+}
+
+.-stickied {
+    width: 45px;
+    height: 45px;
+    background-position: -190px -182px;
+}
+
+.-u-down {
+    width: 15px;
+    height: 14px;
+    background-position: -247px -5px;
+}
+
+.-u-up {
+    width: 15px;
+    height: 14px;
+    background-position: -255px -29px;
+}
+
+.-w-collapse {
+    width: 30px;
+    height: 28px;
+    background-position: -233px -102px;
+}
+
+.-w-expand {
+    width: 30px;
+    height: 28px;
+    background-position: -5px -237px;
+}
+
+.-w-expandol {
+    width: 30px;
+    height: 28px;
+    background-position: -45px -237px;
+}
+
+.-w-expandou {
+    width: 30px;
+    height: 28px;
+    background-position: -85px -237px;
+}
+
+.-w-ham {
+    width: 16px;
+    height: 16px;
+    background-position: -245px -140px;
+}
+
+.-w-medial {
+    width: 30px;
+    height: 28px;
+    background-position: -125px -237px;
+}
+
+.-w-mediau {
+    width: 30px;
+    height: 28px;
+    background-position: -165px -237px;
+}
+
+.-w-pic {
+    width: 30px;
+    height: 28px;
+    background-position: -205px -237px;
+}
+
+.-w-pic2 {
+    width: 30px;
+    height: 28px;
+    background-position: -280px -5px;
+}
+
+.-w-sun {
+    width: 20px;
+    height: 20px;
+    background-position: -280px -43px;
+}
+
+.-xontacts {
+    width: 32px;
+    height: 32px;
+    background-position: -273px -73px;
+}
+.res .expando-button.image.collapsedExpando {
+    background: url(%%q-spritesheet%%) -45px -89px no-repeat!important;
+}
+
+.res .expando-button.image.collapsedExpando:hover {
+    background: url(%%q-spritesheet%%) -85px -89px no-repeat!important;
+}
+
+.res .expando-button.image.gallery.collapsedExpando {
+    background: url(%%q-spritesheet%%) -114px -51px no-repeat!important;
+}
+
+.res .expando-button.image.gallery.collapsedExpando:hover {
+    background: url(%%q-spritesheet%%) -5px -89px no-repeat!important;
+}
