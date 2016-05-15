@@ -1,5 +1,5 @@
 .navbar-default {
-    background-color: rgba(6,102,178,0.9);
+    background-color: rgba(26,57,111,0.9);
     border-color: #e7e7e7;
 }
 .navbar-brand span {
@@ -24,13 +24,13 @@ h1, h2{
 #minimal{
 	border-radius: 0px;
 	background: transparent;
-    border: 2px solid #0057A6;
-    color: #0057A6;
+    border: 2px solid #1a396f;
+    color: #1a396f;
 	transition: all .5s;
 }
 #minimal:hover{
 	color: #fff;
-	background: #0057A6;
+	background: #1a396f;
 }
 #minimal-yt{
 	border-radius: 0px;
@@ -55,7 +55,7 @@ h1, h2{
 }
 
 footer {
-	background: #0057A6;
+	background: #1a396f;
 	bottom: 0;
 	width: 100%;
 	margin-top: 0%;
@@ -73,7 +73,7 @@ footer {
 footer .copyright {
 	width: 50%;
 	float: left;
-	background: #0057A6;
+	background: #1a396f;
 }
 
 @media (max-width: 600px) {}
