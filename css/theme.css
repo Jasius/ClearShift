@@ -3189,5 +3189,7 @@ html[lang^="nm"] .link.last-clicked,
 	height: 21px;
 	line-height: 21px;
 }
-
+.voteWeight {
+    display: none!important;
+}
 /* end of /r/clearshift add extensions below */
