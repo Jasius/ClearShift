@@ -206,7 +206,7 @@ ul#menu li a {
 .before-and-after {
   position: relative;
   overflow: hidden;
-  width: 75%;
+  width: 100%;
   cursor: ew-resize;
   margin: 0 auto;
 }
