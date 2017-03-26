@@ -12,6 +12,11 @@
             "taskName": "compress",
             "isBuildCommand": true,
             "isBackground": true
+        },
+        {
+            "taskName": "images",
+            "isBuildCommand": true,
+            "isBackground": true
         }
     ]
 }

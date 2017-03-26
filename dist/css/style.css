@@ -26,7 +26,7 @@
     height: 100%;
     width: .25em;
     content: '';
-    background: #fff; }
+    background: #777; }
 
 .subject-after {
   -webkit-transform: translate(-50%, 0);
