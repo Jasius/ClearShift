@@ -53,10 +53,6 @@ ul#menu {
       text-decoration: none;
       border-radius: 4px 4px 0 0; }
 
-@media (max-width: 600px) {
-  footer .copyright {
-    width: 100%; } }
-
 #wrap {
   min-height: 100%; }
 
@@ -115,15 +111,15 @@ footer .social {
       transition: all, 0.3s; }
 
 @media (max-width: 600px) {
+  footer .copyright {
+    width: 100%; }
+  footer .social {
+    width: 100%; }
   footer .copyright p {
     text-align: center;
     padding: 0;
     width: 300px;
     margin-left: 5px; } }
-
-@media (max-width: 600px) {
-  footer .social {
-    width: 100%; } }
 
 .linkedin {
   background-color: #ff5700;
