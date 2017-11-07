@@ -1,0 +1,1 @@
+$.get("https://api.github.com/repos/jasius/clearshift/releases/latest",function(t){$("#result").attr("href",t.zipball_url)});
