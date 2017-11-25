@@ -1,22 +1,27 @@
 {
-    "version": "0.1.0",
-    "command": "gulp",
-    "isShellCommand": true,
-    "showOutput": "silent",
+    "version": "2.0.0",
     "tasks": [{
-            "taskName": "compile",
-            "isBuildCommand": true,
-            "isBackground": true
+            "type": "gulp",
+            "task": "compile",
+            "isBackground": true,
+            "presentation": {
+                "echo": true,
+                "reveal": "silent",
+                "focus": false,
+                "panel": "shared"
+            },
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
         },
         {
-            "taskName": "compress",
-            "isBuildCommand": true,
-            "isBackground": true
+            "type": "gulp",
+            "task": "compress"
         },
         {
-            "taskName": "images",
-            "isBuildCommand": true,
-            "isBackground": true
+            "type": "gulp",
+            "task": "images"
         }
     ]
 }
