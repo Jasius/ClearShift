@@ -24,8 +24,8 @@
     left: 0;
     z-index: 20;
     height: 100%;
-    width: .25em;
-    content: '';
+    width: 0.25em;
+    content: "";
     background: #777; }
 
 .subject-after {
@@ -75,7 +75,7 @@ footer {
   border-top: 1px solid white; }
 
 .jaska-foot {
-  color: #FFC107; }
+  color: #ffc107; }
   .jaska-foot:hover {
     color: #fff; }
 
@@ -102,7 +102,7 @@ footer .social {
     color: white;
     text-align: center;
     font-weight: bold;
-    transition: background .33s ease-out, color .33s ease-out, fill .33s ease-out; }
+    transition: background 0.33s ease-out, color 0.33s ease-out, fill 0.33s ease-out; }
     footer .social a:hover {
       background-color: rgba(1, 183, 241, 0.6);
       -moz-transition: all, 0.3s;
@@ -127,7 +127,7 @@ footer .social {
   width: 40%; }
 
 .tweet {
-  background-color: #3DACDD;
+  background-color: #3dacdd;
   font-size: 1.2em;
   width: 20%; }
 
@@ -143,8 +143,8 @@ h2 {
 .img-fluid {
   border: 1px solid transparent; }
   .img-fluid:hover {
-    opacity: .9;
-    border: 1px solid #3498DB; }
+    opacity: 0.9;
+    border: 1px solid #3498db; }
 
 .bg-faded {
   background-color: #464a4c; }
